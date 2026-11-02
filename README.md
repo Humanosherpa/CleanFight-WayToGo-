@@ -66,7 +66,8 @@ Ask Question 3: "If you could eliminate all the noise starting tomorrow, what re
 
 
 💬 Community & Feedback
-Have you tried the prompt? Leave a comment at humanosherpa@gmail.com starting with:
+Have you tried the prompt? 
+Leave a comment at humanosherpa@gmail.com starting with:
 > “I used the Clean fight coach™ THE WAY TO? V1.0 and … “
 
 ---
