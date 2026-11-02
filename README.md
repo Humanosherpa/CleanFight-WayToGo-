@@ -1,10 +1,12 @@
-# CleanFight-WayToGo-
-Clean fight™ Sparring Coach &amp; Cognitive Friction Inspector (v1.0) — Protecting human brilliance from infrastructure noise.⁠
 
 
 # 🚀 Clean fight™: Today’s programming — where is the fun in that?
 
-> **Protecting Human Brilliance from Infrastructure Noise.** An open-source interactive framework to eliminate cognitive friction and bring the joy back to software engineering.
+**Protecting Human Brilliance from Infrastructure Noise.** An open-source interactive framework to eliminate cognitive friction and bring the joy back to software engineering.
+
+## CleanFight-WayToGo-
+Clean fight™ Sparring Coach &amp; Cognitive Friction Inspector (v1.0) — Protecting human brilliance from infrastructure noise.⁠
+
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Release](https://img.shields.io/badge/Release-v1.0-green.svg)]()
